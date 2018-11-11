@@ -25,8 +25,7 @@ Here I analysed the data and cleaned it. wherein I flattened json columns, conve
 2. visualization: <br />
 Here I visualized the dependence of our target column revenue on various attributes and made conclusions <br />
 
-3. prediction <br />
-
+3. prediction: <br />
 here i ran the data through an algorithm to make the necessary predictions <br />
 
 
