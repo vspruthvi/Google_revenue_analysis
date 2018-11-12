@@ -11,7 +11,8 @@ yuser=∑i=1ntransactionuseri<br />
 targetuser=ln(yuser+1)<br />
 Note that the dataset does NOT contain data for December 1st 2018 to January 31st 2019. You must identify the unique fullVisitorIds in the provided test_v2.csv and make predictions for them for those unseen months.<br />
 
-
+The notebook google_revenoue_analysis.ipnb contains the code.<br />
+the notebook has not been locally executed because of lack of computational efficiency, hence the putputs are not clear. it needs to be downloaded and run to see the outputs and visualizations.<br />
 the jupyter notebook is selft explanatory.<br />
 
 I have excluded the hits and custom dimentions columns which were added in the dataset recently as the dtata was not getting loaded.
